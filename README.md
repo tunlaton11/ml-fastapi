@@ -10,7 +10,7 @@ python -m pip install virtualenv
 python3 -m venv <name>
 ```
 
-### Using Python virtualenv (My device is use Fish shell)
+### Using Python virtualenv (My device use Fish shell)
 ```
 source <name>/bin/activate.fish
 ```
